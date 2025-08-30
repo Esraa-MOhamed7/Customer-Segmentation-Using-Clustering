@@ -17,14 +17,10 @@ Welcome! This project explores customer segmentation using clustering techniques
 ### Before Clustering (EDA)
 These help explore the raw data and understand feature distributions:
 ![hist](https://github.com/Esraa-MOhamed7/Customer-Segmentation-Using-Clustering/blob/main/Customer%20Feature%20Distributions.png)
+![boxplot](https://github.com/Esraa-MOhamed7/Customer-Segmentation-Using-Clustering/blob/main/Gender-Based%20Feature%20Comparison.png)
 
 ###  After Clustering
 These reveal how clustering separates customer groups:
-- `scatterplot`: Clustered segments (color-coded)
-- `centroid plot`: Cluster centers
-- `boxplot`: Feature distributions by cluster
-- `heatmap`: Average feature values per cluster
-- `pairplot`: Feature relationships across clusters
 
 ---
 

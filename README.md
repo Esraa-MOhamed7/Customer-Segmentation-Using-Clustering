@@ -16,10 +16,7 @@ Welcome! This project explores customer segmentation using clustering techniques
 
 ### Before Clustering (EDA)
 These help explore the raw data and understand feature distributions:
-- `countplot`: Gender distribution
-- `histplot`: Age, Income, and Spending Score distributions
-- `boxplot`: Spending Score by Gender
-- `scatterplot`: Income vs. Spending Score
+![hist](https://github.com/Esraa-MOhamed7/Customer-Segmentation-Using-Clustering/blob/main/Customer%20Feature%20Distributions.png)
 
 ###  After Clustering
 These reveal how clustering separates customer groups:

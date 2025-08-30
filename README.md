@@ -21,7 +21,7 @@ These help explore the raw data and understand feature distributions:
 
 ###  After Clustering
 These reveal how clustering separates customer groups:
-
+![scatter](https://github.com/Esraa-MOhamed7/Customer-Segmentation-Using-Clustering/blob/main/Clusters.png)
 ---
 
 🙏 Thank you for exploring this project. Your time and curiosity mean a lot — and I hope it brings value to your learning journey.
